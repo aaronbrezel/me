@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.91d94615.chunk.css",
-    "main.js": "/me/static/js/main.6f44197b.chunk.js",
-    "main.js.map": "/me/static/js/main.6f44197b.chunk.js.map",
+    "main.css": "/me/static/css/main.3a6ed883.chunk.css",
+    "main.js": "/me/static/js/main.9fbae8fe.chunk.js",
+    "main.js.map": "/me/static/js/main.9fbae8fe.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.660bb513.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.660bb513.js.map",
     "static/js/2.f27a406c.chunk.js": "/me/static/js/2.f27a406c.chunk.js",
@@ -10,23 +10,23 @@
     "static/js/3.ae87e045.chunk.js": "/me/static/js/3.ae87e045.chunk.js",
     "static/js/3.ae87e045.chunk.js.map": "/me/static/js/3.ae87e045.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.91d94615.chunk.css.map": "/me/static/css/main.91d94615.chunk.css.map",
+    "static/css/main.3a6ed883.chunk.css.map": "/me/static/css/main.3a6ed883.chunk.css.map",
     "static/js/2.f27a406c.chunk.js.LICENSE.txt": "/me/static/js/2.f27a406c.chunk.js.LICENSE.txt",
     "static/media/GitHub.21dbe045.svg": "/me/static/media/GitHub.21dbe045.svg",
     "static/media/Instagram.ed725a5f.svg": "/me/static/media/Instagram.ed725a5f.svg",
     "static/media/LinkedIn.7392672b.svg": "/me/static/media/LinkedIn.7392672b.svg",
-    "static/media/MiamiHerald.cd11899d.svg": "/me/static/media/MiamiHerald.cd11899d.svg",
+    "static/media/MiamiHerald.93d6ac64.svg": "/me/static/media/MiamiHerald.93d6ac64.svg",
     "static/media/Observable.acc40afd.svg": "/me/static/media/Observable.acc40afd.svg",
     "static/media/Quoteworthy.fb741bac.svg": "/me/static/media/Quoteworthy.fb741bac.svg",
-    "static/media/STLPostDispatch.e93e4f4d.png": "/me/static/media/STLPostDispatch.e93e4f4d.png",
-    "static/media/StudentLife.0f7fd3d0.svg": "/me/static/media/StudentLife.0f7fd3d0.svg",
+    "static/media/STLPostDispatch.3d2e06ef.svg": "/me/static/media/STLPostDispatch.3d2e06ef.svg",
+    "static/media/StudentLife.af3f79b4.svg": "/me/static/media/StudentLife.af3f79b4.svg",
     "static/media/Twitter.85c1aa7d.svg": "/me/static/media/Twitter.85c1aa7d.svg",
     "static/media/randomize.8d125025.svg": "/me/static/media/randomize.8d125025.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.660bb513.js",
     "static/js/2.f27a406c.chunk.js",
-    "static/css/main.91d94615.chunk.css",
-    "static/js/main.6f44197b.chunk.js"
+    "static/css/main.3a6ed883.chunk.css",
+    "static/js/main.9fbae8fe.chunk.js"
   ]
 }
