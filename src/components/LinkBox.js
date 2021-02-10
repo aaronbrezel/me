@@ -31,7 +31,7 @@ export default class LinkBox extends React.Component {
 
     constructor(props) {
         super(props);
-        this.links = props.linkData.map(item => (<LinkSquare id={item['site']} site={item['site']} link={item['link']} icon={item['icon']} />));
+        this.links = props.linkData.map(item => (<LinkSquare key={item['site']} id={item['site']} site={item['site']} link={item['link']} icon={item['icon']} />));
         this.type = props.type
     }
 
@@ -40,7 +40,7 @@ export default class LinkBox extends React.Component {
         return (
             <div className="linkBox">
                 <div className="linkHeader">
-                    <h1>{this.type}</h1>
+                    <h2>{this.type}</h2>
                 </div>
                 <div className="linkContainer">
                     {this.links}
