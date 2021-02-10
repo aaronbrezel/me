@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/me/static/js/main.6f278b5f.chunk.js",
-    "main.js.map": "/me/static/js/main.6f278b5f.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.20e2120c.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.20e2120c.js.map",
-    "static/js/2.4137c03b.chunk.js": "/me/static/js/2.4137c03b.chunk.js",
-    "static/js/2.4137c03b.chunk.js.map": "/me/static/js/2.4137c03b.chunk.js.map",
-    "static/js/3.84064c51.chunk.js": "/me/static/js/3.84064c51.chunk.js",
-    "static/js/3.84064c51.chunk.js.map": "/me/static/js/3.84064c51.chunk.js.map",
+    "main.css": "/me/static/css/main.d0fc3c81.chunk.css",
+    "main.js": "/me/static/js/main.a496b063.chunk.js",
+    "main.js.map": "/me/static/js/main.a496b063.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.660bb513.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.660bb513.js.map",
+    "static/js/2.f27a406c.chunk.js": "/me/static/js/2.f27a406c.chunk.js",
+    "static/js/2.f27a406c.chunk.js.map": "/me/static/js/2.f27a406c.chunk.js.map",
+    "static/js/3.ae87e045.chunk.js": "/me/static/js/3.ae87e045.chunk.js",
+    "static/js/3.ae87e045.chunk.js.map": "/me/static/js/3.ae87e045.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/me/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4137c03b.chunk.js.LICENSE.txt": "/me/static/js/2.4137c03b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/me/static/media/logo.6ce24c58.svg"
+    "static/css/main.d0fc3c81.chunk.css.map": "/me/static/css/main.d0fc3c81.chunk.css.map",
+    "static/js/2.f27a406c.chunk.js.LICENSE.txt": "/me/static/js/2.f27a406c.chunk.js.LICENSE.txt",
+    "static/media/GitHub.3edae213.svg": "/me/static/media/GitHub.3edae213.svg",
+    "static/media/Instagram.a87f5890.svg": "/me/static/media/Instagram.a87f5890.svg",
+    "static/media/LinkedIn.70bf78ac.svg": "/me/static/media/LinkedIn.70bf78ac.svg",
+    "static/media/MiamiHerald.1149669d.svg": "/me/static/media/MiamiHerald.1149669d.svg",
+    "static/media/Observable.4787738c.svg": "/me/static/media/Observable.4787738c.svg",
+    "static/media/Quoteworthy.2d614cbc.svg": "/me/static/media/Quoteworthy.2d614cbc.svg",
+    "static/media/STLPostDispatch.e93e4f4d.png": "/me/static/media/STLPostDispatch.e93e4f4d.png",
+    "static/media/StudentLife.e5bb29c2.svg": "/me/static/media/StudentLife.e5bb29c2.svg",
+    "static/media/Twitter.16e6a00e.svg": "/me/static/media/Twitter.16e6a00e.svg",
+    "static/media/randomize.61ac7aa1.svg": "/me/static/media/randomize.61ac7aa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20e2120c.js",
-    "static/js/2.4137c03b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6f278b5f.chunk.js"
+    "static/js/runtime-main.660bb513.js",
+    "static/js/2.f27a406c.chunk.js",
+    "static/css/main.d0fc3c81.chunk.css",
+    "static/js/main.a496b063.chunk.js"
   ]
 }
