@@ -54,9 +54,9 @@ class App extends React.Component {
         <div className="contentWindow">
           {<HelloRoulette/>}
           {<Introduction />}
-          {<LinkBox type="Social" linkData={LINK_DATA.filter(row => row['type'] === "Social")} />}
           {<LinkBox type="Code" linkData={LINK_DATA.filter(row => row['type'] === "Code")} />}
           {<LinkBox type="Journalism" linkData={LINK_DATA.filter(row => row['type'] === "Journalism")} />}
+          {<LinkBox type="Social" linkData={LINK_DATA.filter(row => row['type'] === "Social")} />}
         </div>
         {/* <HelloRoulette /> */}
       
