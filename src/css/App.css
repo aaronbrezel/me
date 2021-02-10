@@ -21,8 +21,7 @@
 
 .linkIcon {
   flex: 1;
-  width: 100%;
-  width: 100%
+ 
 }
 
 .App-logo {
@@ -34,6 +33,10 @@
 
 @media screen and (min-width: 600px) {
   /* Will be applied when screen is wider that 600px */
+  .linkIcon {
+    flex: 1;
+    
+  }
  
 }
 

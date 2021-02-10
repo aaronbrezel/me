@@ -11,7 +11,7 @@ import github from '../logos/GitHub.svg';
 import observable from '../logos/Observable.svg';
 import quoteworthy from '../logos/Quoteworthy.svg';
 import miamiherald from '../logos/MiamiHerald.svg';
-import stlpostdispatch from '../logos/STLPostDispatch.png';
+import stlpostdispatch from '../logos/STLPostDispatch.svg';
 import studentlife from '../logos/StudentLife.svg';
 
 //Component imports

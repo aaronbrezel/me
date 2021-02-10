@@ -81,7 +81,7 @@ class HelloRoulette extends React.Component {
             <h1>
                 <Greeting 
                     greeting={this.state.greeting}
-                />
+                />&nbsp;&nbsp;
                 <Emoji emoji={this.state.emoji}/>
                 {/* <Spin onClick={this.handleSpin} /> */}
             </h1>
