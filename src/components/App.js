@@ -14,6 +14,8 @@ import miamiherald from '../logos/MiamiHerald.svg';
 import stlpostdispatch from '../logos/STLPostDispatch.svg';
 import studentlife from '../logos/StudentLife.svg';
 
+import meIcon from '../logos/me_icon.svg';
+
 //Component imports
 import HelloRoulette from './HelloRoulette.js';
 import Introduction from './Introduction.js';
@@ -24,8 +26,8 @@ import LinkBox from './LinkBox.js'
 
 class App extends React.Component {
   
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       // firstLaunch: null,
       temp: "nothing",
@@ -39,11 +41,11 @@ class App extends React.Component {
       { site: "LinkedIn", type: "Social", link: "https://www.linkedin.com/in/aaron-brezel/", icon: linkedin },
       { site: "Twitter", type: "Social", link: "https://twitter.com/aaronbrezel", icon: twitter },
       { site: "Instagram", type: "Social", link: "https://www.instagram.com/brezlet/", icon: instagram},
-      { site: "GitHub", type: "Code", link: "https://github.com/aaronbrezel", icon: github },
       { site: "Observable", type: "Code", link: "https://observablehq.com/@aaronbrezel", icon: observable },
+      { site: "GitHub", type: "Code", link: "https://github.com/aaronbrezel", icon: github },
       { site: "Quoteworthy", type: "Code", link: "https://chrome.google.com/webstore/detail/quoteworthy/aanbnbjieflpdcekdifhcdoakdogobhc", icon: quoteworthy},
-      { site: "Miami Herald", type: "Journalism", link: "https://www.miamiherald.com/search/?q=Aaron+Brezel", icon: miamiherald},
       { site: "St. Louis Post-Dispatch", type: "Journalism", link: "https://www.stltoday.com/search/?k=%22aaron%20brezel%22", icon: stlpostdispatch},
+      { site: "Miami Herald", type: "Journalism", link: "https://www.miamiherald.com/search/?q=Aaron+Brezel", icon: miamiherald},
       { site: "Student Life", type: "Journalism", link: "https://www.studlife.com/author/aaronbrezel/", icon: studentlife}
     ];
 
@@ -52,6 +54,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="contentWindow">
+          {/* <img src={meIcon} className="App-logo" alt="logo" /> */}
           {<HelloRoulette/>}
           {<Introduction />}
           {<LinkBox type="Code" linkData={LINK_DATA.filter(row => row['type'] === "Code")} />}
