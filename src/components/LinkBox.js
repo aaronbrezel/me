@@ -15,8 +15,8 @@ function LinkIcon(props) {
 
 function LinkSquare (props) {
     return (
-        <div className="linkSquare">
-            <a href={props.link}>
+        <div className="linkSquare" aria-label={props.site}  aria-required="true">
+            <a href={props.link} tabindex={0}>
                 {/* {props.site} */}
                 <LinkIcon class="linkIcon" icon={props.icon}/>
             </a>
