@@ -46,7 +46,7 @@ class App extends React.Component {
       { site: "Quoteworthy", type: "Code", link: "https://chrome.google.com/webstore/detail/quoteworthy/aanbnbjieflpdcekdifhcdoakdogobhc", icon: quoteworthy},
       { site: "St. Louis Post-Dispatch", type: "Journalism", link: "https://www.stltoday.com/search/?k=%22aaron%20brezel%22", icon: stlpostdispatch},
       { site: "Miami Herald", type: "Journalism", link: "https://www.miamiherald.com/search/?q=Aaron+Brezel", icon: miamiherald},
-      { site: "Student Life", type: "Journalism", link: "https://www.studlife.com/author/aaronbrezel/", icon: studentlife}
+      { site: "The Washington Post", type: "Journalism", link: "https://www.washingtonpost.com/people/aaron-brezel/", icon: wapo}
     ];
 
 
