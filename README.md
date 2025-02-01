@@ -1,3 +1,3 @@
-# Code for personal page
+# Deprecated personal page
 
-Test test, we're just going to see what shows up
+Welcome! This is personal site is old and deprecated. I've migrated over to https://aaronbrezel.github.io
